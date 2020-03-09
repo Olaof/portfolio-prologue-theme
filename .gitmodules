@@ -1,0 +1,4 @@
+[submodule "prologue"]
+	path = prologue
+	url = https://github.com/Olaof/prologue.git
+	branch = master
